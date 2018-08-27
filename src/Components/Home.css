@@ -12,20 +12,6 @@ code {
   color: blue;
 }
 
-.center {
-  margin: auto;
-  width: 20%;
-  position: relative;
-}
-
-.dfl {
-  position: absolute;
-  z-index: 1000;
-  top: 9%;
-  left: 41%;
-  width: 100%;
-}
-
 .person-wrapper {
   margin-bottom: 2em;
 }
@@ -38,17 +24,6 @@ code {
 
 .main > * {
   flex: 1 100%;
-}
-
-.first {
-  flex: 2 0px;
-}
-.first {
-  order: 1;
-}
-.second {
-  order: 2;
-  position: relative;
 }
 
 .disp {
