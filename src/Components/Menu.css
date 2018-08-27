@@ -1,4 +1,4 @@
-a {
+.navbar-default .navbar-nav > li > a {
   font-family: "M PLUS Rounded 1c", sans-serif;
-  color: red;
+  text-decoration: underline overline wavy blue;
 }

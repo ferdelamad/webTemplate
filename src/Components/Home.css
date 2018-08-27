@@ -1,7 +1,15 @@
+.home {
+  margin-top: 5%;
+}
+
 .jumbotron {
   margin-bottom: 2em;
   padding-top: 0.5em;
   padding-bottom: 1em;
+}
+
+code {
+  color: blue;
 }
 
 .center {
