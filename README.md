@@ -1,6 +1,6 @@
 # webTemplate
 
-#Tech Used
+#Tech's Used
 - ReacJS
 - React Router
 - React Bootstrap
